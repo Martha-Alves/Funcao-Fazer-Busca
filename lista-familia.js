@@ -32,7 +32,7 @@ const casa = [
     {
         nome: "stella",
         sobrenome: "artois",
-        "coisas favoritas": ["COMER", "carinho", "rosnar para o bud", "roubar comida do bud e do polnareff" ],
+        "coisas favoritas": ["COMER", "carinho", "rosnar para o bud", "roubar comida do bud e do polnareff"],
     },
 ]
 
