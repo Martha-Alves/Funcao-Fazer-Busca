@@ -20,7 +20,7 @@ const casa = [
         "coisas favoritas": ["ilustrar", "cachorros", "arroz doce"],
     },
     {
-        nome: "bud",
+        nome: "budweiser",
         sobrenome: "ribeiro",
         "coisas favoritas": ["mamãe", "brincar", "comer", "dormir", "latir para os inimigos!"],
     },
@@ -28,7 +28,12 @@ const casa = [
         nome: "polnareff",
         sobrenome: "ribeiro",
         "coisas favoritas": ["carinho na cabeça", "pular pelo quintal", "roer a sandália dos meus donos", "roubar comida do bud"],
-    }
+    },
+    {
+        nome: "stella",
+        sobrenome: "artois",
+        "coisas favoritas": ["COMER", "carinho", "rosnar para o bud", "roubar comida do bud e do polnareff" ],
+    },
 ]
 
 function pesquisa(nome, prop) {
